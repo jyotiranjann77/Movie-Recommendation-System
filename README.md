@@ -14,13 +14,6 @@ here is a demo,
 * [Click here to run it live on server](https://mvrecommenderbyjnanda.herokuapp.com//)
 
 
-# Demo:
-
-<img src="demo/1.png" alt="workflow" width="70%">
-
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
@@ -35,7 +28,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/jyotiranjann77/Movie-Recommender-System
+https://github.com/jyotiranjann77/Movie-Recommendation-System
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -57,7 +50,7 @@ pip install -r requirements.txt
 ```bash
 #run this file to generate the models
 
-Movie Recommender System Data Analysis.ipynb
+Movie Recommender system using ML.ipynb
 ```
 
 Now run,
